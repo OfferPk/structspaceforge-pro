@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540">
+  <rect width="960" height="540" fill="#060b16"/>
+  <text x="40" y="46" fill="#38bdf8" font-family="monospace" font-size="20" font-weight="bold">StructSpaceForge Pro v1.0.0 — ECSS-E-ST-32-10C Rev.2 &amp; 32-02C Architecture</text>
+  <text x="40" y="70" fill="#94a3b8" font-family="monospace" font-size="13">Quasi-Static Load Factors (KM·KP·KQ) • FOSY/FOSU Table 5-1 • Miles' Random Vibration • COPV Burst &amp; MoS</text>
+
+  <rect x="40" y="110" width="260" height="175" rx="10" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
+  <text x="58" y="140" fill="#38bdf8" font-family="monospace" font-size="14" font-weight="bold">1. QUASI-STATIC LOADS</text>
+  <text x="58" y="164" fill="#e2e8f0" font-family="monospace" font-size="12">ECSS-E-ST-32-10C Table 4-1</text>
+  <text x="58" y="188" fill="#94a3b8" font-family="monospace" font-size="11">• DLL = LL × K_M × K_P</text>
+  <text x="58" y="208" fill="#94a3b8" font-family="monospace" font-size="11">• Qual Load QL = DLL × K_Q</text>
+  <text x="58" y="228" fill="#94a3b8" font-family="monospace" font-size="11">• Yield DL_Y = DLL × FOSY × K_LD</text>
+  <text x="58" y="248" fill="#34d399" font-family="monospace" font-size="11">• Ult DL_U = DLL × FOSU × K_LD</text>
+
+  <rect x="40" y="315" width="260" height="175" rx="10" fill="#0f172a" stroke="#34d399" stroke-width="2"/>
+  <text x="58" y="345" fill="#34d399" font-family="monospace" font-size="14" font-weight="bold">2. MODAL &amp; RANDOM VIB</text>
+  <text x="58" y="369" fill="#e2e8f0" font-family="monospace" font-size="12">ECSS-E-HB-32-26A</text>
+  <text x="58" y="393" fill="#94a3b8" font-family="monospace" font-size="11">• LV Stiffness Isolation</text>
+  <text x="58" y="413" fill="#94a3b8" font-family="monospace" font-size="11">• Octave Rule: f_p/f_b &ge; &radic;2</text>
+  <text x="58" y="433" fill="#94a3b8" font-family="monospace" font-size="11">• Miles' G_rms = &radic;(&pi;/2·fn·Q·W)</text>
+  <text x="58" y="453" fill="#38bdf8" font-family="monospace" font-size="11">• 3-Sigma Peak Acceleration</text>
+
+  <rect x="360" y="110" width="260" height="380" rx="10" fill="#0f172a" stroke="#fbbf24" stroke-width="2"/>
+  <text x="378" y="140" fill="#fbbf24" font-family="monospace" font-size="14" font-weight="bold">3. FOSY / FOSU &amp; COPV</text>
+  <text x="378" y="164" fill="#e2e8f0" font-family="monospace" font-size="12">ECSS-32-10C &amp; 32-02C</text>
+  <text x="378" y="192" fill="#94a3b8" font-family="monospace" font-size="11">• Metallic Test: 1.10 / 1.25</text>
+  <text x="378" y="214" fill="#94a3b8" font-family="monospace" font-size="11">• Metallic Analysis: 1.25 / 2.00</text>
+  <text x="378" y="236" fill="#94a3b8" font-family="monospace" font-size="11">• FRP Composite: 1.25 / 2.00</text>
+  <text x="378" y="258" fill="#94a3b8" font-family="monospace" font-size="11">• Man-Rated Launch: 1.25 / 1.40</text>
+  <text x="378" y="294" fill="#38bdf8" font-family="monospace" font-size="12" font-weight="bold">Pressurized Hardware:</text>
+  <text x="378" y="318" fill="#94a3b8" font-family="monospace" font-size="11">• MDP = MEOP × K_M × K_P</text>
+  <text x="378" y="340" fill="#94a3b8" font-family="monospace" font-size="11">• COPV Proof = 1.50 × MDP</text>
+  <text x="378" y="362" fill="#34d399" font-family="monospace" font-size="11">• COPV Burst = 2.00 × MDP</text>
+
+  <rect x="680" y="110" width="240" height="380" rx="10" fill="#0f172a" stroke="#a855f7" stroke-width="2"/>
+  <text x="698" y="140" fill="#c084fc" font-family="monospace" font-size="14" font-weight="bold">4. MARGIN OF SAFETY</text>
+  <text x="698" y="164" fill="#e2e8f0" font-family="monospace" font-size="12">MoS_Y &ge; 0 &amp; MoS_U &ge; 0</text>
+  <text x="698" y="196" fill="#94a3b8" font-family="monospace" font-size="11">• STR-01 Separation Ring</text>
+  <text x="698" y="220" fill="#94a3b8" font-family="monospace" font-size="11">• STR-02 Optical Shear Panel</text>
+  <text x="698" y="244" fill="#94a3b8" font-family="monospace" font-size="11">• STR-03 RWA Ti Bracket</text>
+  <text x="698" y="268" fill="#94a3b8" font-family="monospace" font-size="11">• STR-04 Solar Yoke Hinge</text>
+  <text x="698" y="292" fill="#94a3b8" font-family="monospace" font-size="11">• STR-05 Propulsion Strut</text>
+  <text x="698" y="336" fill="#34d399" font-family="monospace" font-size="12" font-weight="bold">10/10 Normative Auditor</text>
+  <text x="698" y="360" fill="#94a3b8" font-family="monospace" font-size="11">• ECSS XML Manifest Export</text>
+
+  <line x1="300" y1="195" x2="360" y2="195" stroke="#38bdf8" stroke-width="3"/>
+  <line x1="300" y1="400" x2="360" y2="400" stroke="#34d399" stroke-width="3"/>
+  <line x1="620" y1="295" x2="680" y2="295" stroke="#fbbf24" stroke-width="3"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540">
+  <rect width="960" height="540" fill="#060b16"/>
+  <rect x="20" y="20" width="920" height="54" rx="8" fill="#0f172a" stroke="#1e293b"/>
+  <text x="40" y="52" fill="#ffffff" font-family="monospace" font-size="16" font-weight="bold">StructSpaceForge Pro v1.0.0 — ECSS-E-ST-32-10C Structural Studio</text>
+  <text x="710" y="52" fill="#34d399" font-family="monospace" font-size="13" font-weight="bold">10 / 10 ECSS-32-10C PASS</text>
+
+  <rect x="20" y="90" width="215" height="75" rx="8" fill="#0f172a" stroke="#38bdf8"/>
+  <text x="35" y="115" fill="#94a3b8" font-family="monospace" font-size="11">FOSY / FOSU (DLL)</text>
+  <text x="35" y="145" fill="#38bdf8" font-family="monospace" font-size="18" font-weight="bold">1.10 / 1.25 (1.155)</text>
+
+  <rect x="255" y="90" width="215" height="75" rx="8" fill="#0f172a" stroke="#38bdf8"/>
+  <text x="270" y="115" fill="#94a3b8" font-family="monospace" font-size="11">AXIAL ULTIMATE FORCE</text>
+  <text x="270" y="145" fill="#ffffff" font-family="monospace" font-size="18" font-weight="bold">29.47 kN (23.6kN)</text>
+
+  <rect x="490" y="90" width="215" height="75" rx="8" fill="#0f172a" stroke="#34d399"/>
+  <text x="505" y="115" fill="#94a3b8" font-family="monospace" font-size="11">MILES 3-SIGMA VIB</text>
+  <text x="505" y="145" fill="#38bdf8" font-family="monospace" font-size="18" font-weight="bold">51.90 g (17.3 Grms)</text>
+
+  <rect x="725" y="90" width="215" height="75" rx="8" fill="#0f172a" stroke="#a855f7"/>
+  <text x="740" y="115" fill="#94a3b8" font-family="monospace" font-size="11">MIN STRUCTURAL MoS</text>
+  <text x="740" y="145" fill="#34d399" font-family="monospace" font-size="18" font-weight="bold">+0.469 (COPV +0.04)</text>
+
+  <rect x="20" y="185" width="920" height="330" rx="10" fill="#0f172a" stroke="#1e293b"/>
+  <text x="40" y="215" fill="#38bdf8" font-family="monospace" font-size="14" font-weight="bold">SDOF TRANSMISSIBILITY |H(f)|, OCTAVE MODAL SEPARATION &amp; ELEMENT MoS MATRIX</text>
+  <polyline fill="none" stroke="#38bdf8" stroke-width="3" points="60,440 220,425 310,245 390,415 540,445"/>
+</svg>
